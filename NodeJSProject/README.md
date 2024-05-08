@@ -1,3 +1,12 @@
+=======================================================================================================================
+
+8 May 2024 Version 1.1
+
+-Removed comments and debug loggings
+-Added UserGuide in NodeJSProject root
+
+=======================================================================================================================
+
 8 May 2024 Version 1.0
 
 -Added Express API.
@@ -6,7 +15,7 @@
 
 The system now creates a chart with additional information to show the Energy Saving insights.
 
-<br>
+=======================================================================================================================
 
 3 May 2024 Version 0
 

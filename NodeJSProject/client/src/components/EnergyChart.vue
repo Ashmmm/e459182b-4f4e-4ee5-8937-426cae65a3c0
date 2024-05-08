@@ -168,9 +168,6 @@ export default {
         ].timestamp.slice(0, 10); // Input labels won't store this string if without slice
         this.applyFilter(dayjs(this.startDate), dayjs(this.endDate));
       }
-      console.log("Length of Energy Data:", this.energyData.length);
-      console.log("startDate:", this.startDate);
-      console.log("endDate:", this.endDate);
     },
     initChart() {
       this.chart = echarts.init(this.$refs.chartContainer);
