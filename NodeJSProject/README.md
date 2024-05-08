@@ -1,3 +1,11 @@
+Please run the backend and the front end with separate terminals.
+
+cd NodeJSProject\client
+npm run serve
+
+cd NodeJSProject\server
+node server.js
+
 =======================================================================================================================
 
 8 May 2024 Version 1.1
